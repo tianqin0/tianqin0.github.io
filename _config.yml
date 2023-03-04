@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Tian Qin"
 title_separator          : "-"
 name                     : &name "Tian Qin"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Graduate Student at USTC"
+url                      : https://tianqin0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianqin0/tianqin0.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tian Qin"
-  avatar           : "av.png"
+  avatar           : "profile.png"
   bio              : "Graduate Student at USTC"
   location         : #"Location"
   employer         :
