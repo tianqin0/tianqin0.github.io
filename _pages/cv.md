@@ -21,36 +21,36 @@ Main Courses
 -----
 Probability and Statistics
 =====
-Elementary Probability Theory (90/100)
-Applied Stochastic Process (96/100)
-\*Advanced Stochastic Process (90/100)
-Mathematical Statistics (96/100)
-Regression Analysis (95/100)
-\*Martingale Theory and Stochastic Integration (90/100)
+* Elementary Probability Theory (90/100)
+* Applied Stochastic Process (96/100)
+* Advanced Stochastic Process (90/100)
+* Mathematical Statistics (96/100)
+* Regression Analysis (95/100)
+* Martingale Theory and Stochastic Integration (90/100)
 
 Algebra and Geometry
 =====
-Linear Algebra A1,A2 (95,85/100)
-Abstract Algebra (93/100)
-Differential Geometry (97/100)
+* Linear Algebra A1,A2 (95,85/100)
+* Abstract Algebra (93/100)
+* Differential Geometry (97/100)
 
 Analysis and Equations
 =====
-Mathematical Analysis A1,A2,A3 (92,88,93/100)
-Real Analysis (85/100)
-Complex Analysis (88/100)
-Functional Analysis (99/100)
-Differential Equations 1 (90/100)
+* Mathematical Analysis A1,A2,A3 (92,88,93/100)
+* Real Analysis (85/100)
+* Complex Analysis (88/100)
+* Functional Analysis (99/100)
+* Differential Equations 1 (90/100)
 
 Computer and Information Science
 =====
-Software Design (Based on C) (88/100)
-Data Structure and Data Base (95/100)
-Introduction to Algorithms (82/100)
-\*Information Theory (97/100)
+* Software Design (Based on C) (88/100)
+* Data Structure and Data Base (95/100)
+* Introduction to Algorithms (82/100)
+* Information Theory (97/100)
 
 Physics
 =====
-Mechanics and Thermal Physics (90/100)
-Electromagnetism (88/100)
-Optics and Atomic Physics (98/100)
+* Mechanics and Thermal Physics (90/100)
+* Electromagnetism (88/100)
+* Optics and Atomic Physics (98/100)
