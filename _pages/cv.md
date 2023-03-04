@@ -26,13 +26,14 @@ Probability and Statistics
 * Advanced Stochastic Process (90/100)
 * Mathematical Statistics (96/100)
 * Regression Analysis (95/100)
-* Martingale Theory and Stochastic Integration (90/100)
+* Martingale and Stochastic Calculus (90/100)
 
-Algebra and Geometry
+Algebra and Combinatorics
 -----
 * Linear Algebra A1,A2 (95,85/100)
-* Abstract Algebra (93/100)
-* Differential Geometry (97/100)
+* Foundation of Algebra (86/100)
+* Modern Algebra (93/100)
+* Graph Theory (91/100)
 
 Analysis and Equations
 -----
@@ -40,17 +41,23 @@ Analysis and Equations
 * Real Analysis (85/100)
 * Complex Analysis (88/100)
 * Functional Analysis (99/100)
-* Differential Equations 1 (90/100)
+* Differential Equations I (90/100)
+
+Geometry and Topology
+-----
+* Analytic Geometry (90/100)
+* Differential Geometry (97/100)
+* Topology (86/100)
 
 Computer and Information Science
 -----
-* Software Design (Based on C) (88/100)
+* Computer Programming A (Based on C) (88/100)
 * Data Structure and Data Base (95/100)
-* Introduction to Algorithms (82/100)
+* Foundations of Algorithms (82/100)
 * Information Theory (97/100)
 
 Physics
 -----
 * Mechanics and Thermal Physics (90/100)
-* Electromagnetism (88/100)
+* Electromagnetism B (88/100)
 * Optics and Atomic Physics (98/100)
