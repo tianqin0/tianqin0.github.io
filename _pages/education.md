@@ -17,9 +17,9 @@ redirect_from:
 * Overall GPA: 3.78/4.30; ranking: 7/71 (among all the students majoring in probability and statistics).
 * Majoy GPA (all mathmatics courses): 3.99/4.30
 
+
 Main Courses
 =====
-
 Probability and Statistics
 -----
 * Elementary Probability Theory (90/100)
