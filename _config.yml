@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tian Qin / Site Title"
+title                    : "Tian Qin"
 title_separator          : "-"
 name                     : &name "Tian Qin"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tian Qin"
-  avatar           : "profile.png"
+  avatar           : "av.png"
   bio              : "Graduate Student at USTC"
   location         : #"Location"
   employer         :
