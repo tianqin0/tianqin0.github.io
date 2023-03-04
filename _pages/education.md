@@ -19,6 +19,7 @@ redirect_from:
 
 Main Courses
 =====
+
 Probability and Statistics
 -----
 * Elementary Probability Theory (90/100)
