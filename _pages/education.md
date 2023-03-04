@@ -63,4 +63,3 @@ Physics
 * Mechanics and Thermal Physics (90/100)
 * Electromagnetism B (88/100)
 * Optics and Atomic Physics (98/100)
-
