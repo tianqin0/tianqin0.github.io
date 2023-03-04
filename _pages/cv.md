@@ -1,16 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Education"
+permalink: /education/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
-Education
-======
 **University of Science and Technology of China**, Hefei, China. *Sep.2022-Jun.2024 (expected)*
 * M.Eng. in Computer Science (Data Science). 
 
@@ -19,22 +16,41 @@ Education
 * School of the Gifted Young (skip the 3rd year of high school).
 * Overall GPA: 3.78/4.30; ranking: 7/71 (among all the students majoring in probability and statistics).
 * Majoy GPA (all mathmatics courses): 3.99/4.30
-  
-Experimence
-=====
-**JD Explore**, Beijing, China, *Oct.2021-Aug.2022*
-* Research intern, advised by [Fengxiang He](https://fengxianghe.github.io/) and [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
-* Researchs on deep learning theory, game theory.
 
-Publications
-======
-- Benefits of Permutation-Equivariance in Auction Mechanisms \
-  In *Neural Information Processing Systems (NeurIPS) 2022* \
-  **Tian Qin**\*, Fengxiang He\*, Dingfeng Shi, Wenbing Huang, Dacheng Tao \
-  **TL;DR**: Permutation-equivariance decreases the ex-post regret and improves the generalization while maintaining the revenue. \
-  [[BibTex](https://github.com/tianqin0/tianqin0.github.io/blob/master/assets/bib/bpe.bib)] [[PDF](https://arxiv.org/pdf/2210.05579.pdf)] [[Poster](https://github.com/tianqin0/tianqin0.github.io/blob/master/assets/poster/bpe.pdf)]
-  
-Service
-======
-* AISTATS 2023 reviewer
-* UAI 2023 reviewer
+Main Courses
+-----
+Probability and Statistics
+=====
+Elementary Probability Theory (90/100)
+Applied Stochastic Process (96/100)
+\*Advanced Stochastic Process (90/100)
+Mathematical Statistics (96/100)
+Regression Analysis (95/100)
+\*Martingale Theory and Stochastic Integration (90/100)
+
+Algebra and Geometry
+=====
+Linear Algebra A1,A2 (95,85/100)
+Abstract Algebra (93/100)
+Differential Geometry (97/100)
+
+Analysis and Equations
+=====
+Mathematical Analysis A1,A2,A3 (92,88,93/100)
+Real Analysis (85/100)
+Complex Analysis (88/100)
+Functional Analysis (99/100)
+Differential Equations 1 (90/100)
+
+Computer and Information Science
+=====
+Software Design (Based on C) (88/100)
+Data Structure and Data Base (95/100)
+Introduction to Algorithms (82/100)
+\*Information Theory (97/100)
+
+Physics
+=====
+Mechanics and Thermal Physics (90/100)
+Electromagnetism (88/100)
+Optics and Atomic Physics (98/100)
