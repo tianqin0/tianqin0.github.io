@@ -15,7 +15,9 @@ Research Interest
 =====
 I have an interest in statistics, deep learning, reinforcement learning, and game theory, especially in the inductive bias in deep learning theory.
 
-I believe the right inductive bias can accelerate the convergence and improve the generalization. Intuitively, when the models are equipped with some known inductive bias, the inductive bias will make the search space smaller and better. As a specific case of inductive bias, equivariance is widely used in designing neural networks, which explores the symmetry in the data and tries to maintain the known symmetry. Empirical evidence shows that equivariant neural networks have a better generalization and are more sample-efficient. Most recently, I am studying the effect of equivariance theoretically.
+I believe the right inductive bias can accelerate the convergence and improve the generalization. Intuitively, when the models are equipped with some known inductive bias, the inductive bias will make the search space smaller and better. 
+
+As a specific case of inductive bias, equivariance is widely used in designing neural networks, which explores the symmetry in the data and tries to maintain the known symmetry. Empirical evidence shows that equivariant neural networks have a better generalization and are more sample-efficient. Most recently, I am studying the effect of equivariance theoretically.
 
 Publication
 =====
