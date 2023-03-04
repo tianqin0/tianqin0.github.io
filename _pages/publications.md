@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 - Benefits of Permutation-Equivariance in Auction Mechanisms \
   In *Neural Information Processing Systems (NeurIPS) 2022* \
   **Tian Qin**\*, Fengxiang He\*, Dingfeng Shi, Wenbing Huang, Dacheng Tao \
