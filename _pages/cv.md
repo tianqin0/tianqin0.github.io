@@ -11,49 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**University of Science and Technology of China**, Hefei, China. *Sep.2022-Jun.2024 (expected)*
+* M.Eng. in Computer Science (Data Science). 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**University of Science and Technology of China**, Hefei, China. *Sep.2018-Jun.2022*
+* B.S. in Probability and Statistics (Mathematics and Applied Mathematics).
+* School of the Gifted Young (skip the 3rd year of high school).
+* Overall GPA: 3.78/4.30; ranking: 7/71 (among all the students majoring in probability and statistics).
+* Majoy GPA (all mathmatics courses): 3.99/4.30
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Experimence
+=====
+**JD Explore**, Beijing, China, *Oct.2021-Aug.2022*
+* Research intern, advised by [Fengxiang He](https://fengxianghe.github.io/) and [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
+* Researchs on deep learning theory, game theory.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+- Benefits of Permutation-Equivariance in Auction Mechanisms \
+  In *Neural Information Processing Systems (NeurIPS) 2022* \
+  **Tian Qin**\*, Fengxiang He\*, Dingfeng Shi, Wenbing Huang, Dacheng Tao \
+  **TL;DR**: Permutation-equivariance decreases the ex-post regret and improves the generalization while maintaining the revenue. \
+  [[BibTex](https://github.com/tianqin0/tianqin0.github.io/blob/master/assets/bib/bpe.bib)] [[PDF](https://arxiv.org/pdf/2210.05579.pdf)] [[Poster](https://github.com/tianqin0/tianqin0.github.io/blob/master/assets/poster/bpe.pdf)]
   
-Talks
+Service
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* AISTATS 2023 reviewer
+* UAI 2023 reviewer
