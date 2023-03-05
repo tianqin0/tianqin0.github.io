@@ -8,4 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-Coming soon~
+
+Here is a record of my life.
