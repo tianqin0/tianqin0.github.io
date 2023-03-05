@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-Hi, I am a first-year graduate student at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn), supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html). Before that, I obtained my Bachelor's degree in Probability and Statistics from USTC in 2022. 
+Hi, I am a first-year graduate student at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn), advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html). Before that, I obtained my Bachelor's degree in Probability and Statistics from USTC in 2022. 
 
 Research Interest
 =====
