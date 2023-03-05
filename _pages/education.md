@@ -20,6 +20,7 @@ redirect_from:
 Main Courses (*Sep.2018-Jun.2022*)
 =====
 Here is a list of the main courses that I took at University of Science and Technology of China in my undergraduate period.
+
 Probability and Statistics
 -----
 * Elementary Probability Theory (90/100)
