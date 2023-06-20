@@ -9,15 +9,11 @@ redirect_from:
 
 ---
 
-Hi, I am a first-year graduate student at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn), advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html). Before that, I obtained my Bachelor's degree in Probability and Statistics from USTC in 2022. 
+Hi, I am a first-year graduate student at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn), advised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) and Prof. [Fengxiang He] (https://fengxianghe.github.io/). Before that, I obtained my Bachelor's degree in Probability and Statistics from USTC in 2022. Here is my 
 
 Research Interest
 =====
-I have an interest in statistics, deep learning, reinforcement learning, and game theory, especially in the inductive bias in deep learning theory.
-
-I believe the right inductive bias can accelerate the convergence and improve the generalization. Intuitively, when the models are equipped with some known inductive bias, the inductive bias will make the search space smaller and better. 
-
-As a specific case of inductive bias, equivariance is widely used in designing neural networks, which explores the symmetry in the data and tries to maintain the known symmetry. Empirical evidence shows that equivariant neural networks have a better generalization and are more sample-efficient. Most recently, I am studying the effect of equivariance theoretically.
+I have an interest in statistics, deep learning, reinforcement learning, and game theory. Most recently, I focus on the theoretical study of *equivariance*, a specific way to incorporate inductive bias in deep learning.
 
 Publication
 =====
