@@ -15,7 +15,7 @@ redirect_from:
 * B.S. in Probability and Statistics (Mathematics and Applied Mathematics).
 * School of the Gifted Young (skip the 3rd year of high school).
 * Overall GPA: 3.78/4.30; ranking: 7/71 (among all the students majoring in probability and statistics).
-* Major GPA (all mathematics courses): 3.99/4.30
+* Major GPA (all mathematics courses): 3.99/4.30.
 
 Main Courses (*Sep.2018-Jun.2022*)
 =====
