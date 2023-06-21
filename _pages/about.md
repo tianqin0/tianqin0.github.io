@@ -13,7 +13,7 @@ Hi, I am a first-year graduate student at [University of Science and Technology 
 
 Research Interest
 =====
-I have an interest in statistics, deep learning, reinforcement learning, and game theory. Most recently, I focus on the theoretical study of *equivariance*, a specific way to incorporate inductive bias in deep learning.
+I have an interest in statistics, deep learning, reinforcement learning, and game theory. Most recently, I focus on the theoretical study of *equivariance*, a specific way to incorporate inductive bias in deep learning. Feel free to contact me for anything.
 
 Publication
 =====
